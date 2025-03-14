@@ -17,22 +17,33 @@
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 
 ### **Programming Languages & Data Analysis**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-![DHIS2](https://img.shields.io/badge/DHIS2-2D9CDB?style=for-the-badge&logo=dhis2&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+---
 
 ### **Data Visualization & BI**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![DHIS2](https://img.shields.io/badge/DHIS2-2D9CDB?style=for-the-badge&logo=dhis2&logoColor=white)  
+
+---
 
 ### **Geospatial Analysis**  
 ![QGIS](https://img.shields.io/badge/QGIS-3CAA3C?style=for-the-badge&logo=qgis&logoColor=white) 
-![ArcGIS](https://img.shields.io/badge/ArcGIS-0079C1?style=for-the-badge&logo=esri&logoColor=white) 
+![ArcGIS](https://img.shields.io/badge/ArcGIS-0079C1?style=for-the-badge&logo=esri&logoColor=white)  
+
+---
 
 ### **Qualitative Data Analysis**  
-![Nvivo](https://img.shields.io/badge/NVivo-1C1C1C?style=for-the-badge&logo=nvidia&logoColor=white) 
+![Nvivo](https://img.shields.io/badge/NVivo-1C1C1C?style=for-the-badge&logo=nvidia&logoColor=white)  
+
+---
 
 ### **Data Collection & Survey Tools**  
 ![Redcap](https://img.shields.io/badge/REDCap-FF0000?style=for-the-badge) 
@@ -40,7 +51,9 @@
 ![CsPro](https://img.shields.io/badge/CsPro-0076D6?style=for-the-badge) 
 ![Comcare](https://img.shields.io/badge/Comcare-0078D7?style=for-the-badge&logo=microsoft) 
 ![Google Forms](https://img.shields.io/badge/Google_Forms-4285F4?style=for-the-badge&logo=google) 
-![Microsoft Forms](https://img.shields.io/badge/Microsoft_Forms-0078D4?style=for-the-badge&logo=microsoft) 
+![Microsoft Forms](https://img.shields.io/badge/Microsoft_Forms-0078D4?style=for-the-badge&logo=microsoft)  
+
+---
 
 ### **Version Control & Collaboration**  
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) 

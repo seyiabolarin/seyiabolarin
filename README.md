@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Seyi Abolarin!  
-🚀 **Passionate Data Analyst and Technical Lead in Data Analytics & Informatics**  
-🌍 **Experienced in data extraction, cleaning, analysis, visualization, and geospatial analytics**  
+🚀 **Passionate Data Analyst and Management Information Systems Professional.**  
+🌍 **Experienced in data extraction, cleaning, analysis, visualization, story-telling, geospatial analytics, product management, stakeholder presentation & engagement, & data facilitation trainings **  
 🎓 **Self-taught and continuously learning to stay ahead in the field**  
 
-💡 **Currently exploring advanced techniques in data science and engineering!**  
+💡 **Currently exploring advanced techniques in data science, engineering, and software development!**  
 
 ---
 

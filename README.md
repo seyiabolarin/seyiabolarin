@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Seyi Abolarin!  
 🚀 **Passionate Data Analyst and Management Information Systems Professional.**  
-🌍 **Experienced in data extraction, cleaning, analysis, visualization, storytelling, geospatial analytics, product management, stakeholder presentation & engagement, and data facilitation trainings.**  
+🌍 **Experienced in data extraction, cleaning, analysis, visualization, storytelling, geospatial analytics, product management, stakeholder presentation & engagement, and data facilitation training.**  
 🎓 **Self-taught and continuously learning to stay ahead in the field.**  
 🌱 **Founder of the Data Analytics Training Community - [Geoanaltech](https://www.linkedin.com/company/geoanaltech)**  
 
